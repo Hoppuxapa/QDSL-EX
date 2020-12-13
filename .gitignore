@@ -1,0 +1,12 @@
+.idea/
+out
+target
+*.iml
+*.patch,
+
+
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/main/
+/build/classes/test/
